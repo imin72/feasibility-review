@@ -18,6 +18,7 @@
 - `prototype/feasibility_calculator.py`: 4단계 입력값을 받아 핵심 지표를 계산하는 간단한 프로토타입
 - `prototype/sample_input.json`: 프로토타입 실행용 샘플 입력
 - `docs/execution-plan.md`: 앞으로의 작업 스케줄(8주) 및 우선순위 백로그
+- `docs/commercialization-feasibility.md`: 상용화 수익성/사용자 수 예측/글로벌 확장성 검토
 
 ## 빠른 실행
 
