@@ -17,6 +17,7 @@
 - `docs/data-model.md`: 표준코드/레퍼런스/보정계수 데이터 모델
 - `prototype/feasibility_calculator.py`: 4단계 입력값을 받아 핵심 지표를 계산하는 간단한 프로토타입
 - `prototype/sample_input.json`: 프로토타입 실행용 샘플 입력
+- `docs/execution-plan.md`: 앞으로의 작업 스케줄(8주) 및 우선순위 백로그
 
 ## 빠른 실행
 
